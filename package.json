@@ -1,0 +1,29 @@
+{
+  "name": "rn-ts-starter",
+  "version": "1.0.0",
+  "description": "A TypeScript Starter Kit for React Native, designed to kickstart your mobile app development with a clean, scalable, and well-structured boilerplate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhanushalikaran/rn-ts-starter.git"
+  },
+  "keywords": [
+    "react native starter kit",
+    "react native",
+    "react",
+    "mobile",
+    "package"
+  ],
+  "author": "Karan Bhanushali <https://github.com/bhanushalikaran>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhanushalikaran/rn-ts-starter/issues"
+  },
+  "homepage": "https://github.com/bhanushalikaran/rn-ts-starter#readme",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
